@@ -18,7 +18,7 @@ Number guessing game: https://github.com/jonathanwidmer/Programming2Portfolio/tr
 > This is a number guessing game where the user guesses a number, but our assignment was to store the users data, such as name, time spent playing the game, etc. and output it to a txt file.
 
 2D array chessboard: https://github.com/jonathanwidmer/Programming2Portfolio/tree/main/projects/ChessBoard
-> This project displays a chess board made from a 2D array.
+> This project displays a chess board made from a 2D array. This was my introduction to learning about 2D arrays and how to use them.
 
 My programming group project: https://github.com/jonathanwidmer/programmingroupproject
 > I was in a group of 4 people, and together we made a project of a game where you traverse through a maze of dinosaurs to reach a goal. It was a lot of fun working on it. We have 2 Windows versions(32 and 64 bit) and a Mac OS version.
