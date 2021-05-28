@@ -23,6 +23,12 @@ Number guessing game: https://github.com/jonathanwidmer/Programming2Portfolio/tr
 My programming group project: https://github.com/jonathanwidmer/programmingroupproject
 > I was in a group of 4 people, and together we made a project of a game where you traverse through a maze of dinosaurs to reach a goal. It was a lot of fun working on it. We have 2 Windows versions(32 and 64 bit) and a Mac OS version.
 
+Movie theater chapter project: https://github.com/jonathanwidmer/Programming2Portfolio/tree/main/projects/Theater
+> I remember this project being really hard for me to complete because I was new to using 2D arrays. I remember it felt really good when I finally finished it and got it to work.
+
+Letter digit project: https://github.com/jonathanwidmer/Programming2Portfolio/tree/main/projects/LetterDigit
+> For this project, you type numbers, like on a phone keypad, to see what words it can make. This project uses a HashMap and Sets.
+
 # Big Java Chapter Projects
 
 Big Java chapter 4 project: https://github.com/jonathanwidmer/Programming2Portfolio/tree/main/projects/Library
