@@ -12,7 +12,7 @@ Link  to group project: https://github.com/jonathanwidmer/programmingroupproject
 # Solo Projects Examples / Large Projects:
 
 My individual project: https://github.com/jonathanwidmer/2020programming2Project
-> This is my individual project. I didn't really have a solid idea for what I wanted to do, so I made a couple GUI conversion calculators, as well as a music player.
+> This is my individual project. I didn't really have a solid idea for what I wanted to do, so I made a couple GUI conversion calculators, as well as a music player. It took me so long to figure out how to get the music player to work that I almost gave up on it, but I eventually got it to work.
 
 Number guessing game: https://github.com/jonathanwidmer/Programming2Portfolio/tree/main/projects/NumberGame
 > This is a number guessing game where the user guesses a number, but our assignment was to store the users data, such as name, time spent playing the game, etc. and output it to a txt file.
@@ -28,6 +28,9 @@ Movie theater chapter project: https://github.com/jonathanwidmer/Programming2Por
 
 Letter digit project: https://github.com/jonathanwidmer/Programming2Portfolio/tree/main/projects/LetterDigit
 > For this project, you type numbers, like on a phone keypad, to see what words it can make. This project uses a HashMap and Sets.
+
+Resistor project: https://github.com/jonathanwidmer/Programming2Portfolio/tree/main/projects/Resistor
+> In this project I actually learned about something other than programming, which is resistance, nominal resistance, and tolerance. I also learned how to calculate these values, and I found it really interesting.
 
 # Big Java Chapter Projects
 
