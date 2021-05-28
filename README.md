@@ -9,6 +9,11 @@ Link to my individual project: https://github.com/jonathanwidmer/2020programming
 
 Link  to group project: https://github.com/jonathanwidmer/programmingroupproject
 
+# Solo Projects Examples:
+
+My individual project: https://github.com/jonathanwidmer/2020programming2Project
+> This is my individual project. I didn't really have a solid idea for what I wanted to do, so I made a couple GUI conversion calculators, as well as a music player.
+
 # Big Java Chapter Projects
 
 Big Java chapter 4 project: https://github.com/jonathanwidmer/Programming2Portfolio/tree/main/projects/Library
