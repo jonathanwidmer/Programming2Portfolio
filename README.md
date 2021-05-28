@@ -7,4 +7,4 @@ All projects from this school year including chapter projects can be found in th
 
 Link to my individual project: https://github.com/jonathanwidmer/2020programming2Project
 
-Link  to group project: 
+Link  to group project: https://github.com/jonathanwidmer/programmingroupproject
