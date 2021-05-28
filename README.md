@@ -9,7 +9,7 @@ Link to my individual project: https://github.com/jonathanwidmer/2020programming
 
 Link  to group project: https://github.com/jonathanwidmer/programmingroupproject
 
-# Solo Projects Examples:
+# Solo Projects Examples / Large Projects:
 
 My individual project: https://github.com/jonathanwidmer/2020programming2Project
 > This is my individual project. I didn't really have a solid idea for what I wanted to do, so I made a couple GUI conversion calculators, as well as a music player.
@@ -19,6 +19,9 @@ Number guessing game: https://github.com/jonathanwidmer/Programming2Portfolio/tr
 
 2D array chessboard: https://github.com/jonathanwidmer/Programming2Portfolio/tree/main/projects/ChessBoard
 > This project displays a chess board made from a 2D array.
+
+My programming group project: https://github.com/jonathanwidmer/programmingroupproject
+> I was in a group of 4 people, and together we made a project of a game where you traverse through a maze of dinosaurs to reach a goal. It was a lot of fun working on it. We have 2 Windows versions(32 and 64 bit) and a Mac OS version.
 
 # Big Java Chapter Projects
 
