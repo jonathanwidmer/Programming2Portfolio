@@ -11,12 +11,6 @@ Link  to group project: https://github.com/jonathanwidmer/programmingroupproject
 
 # Big Java Chapter Projects
 
-Big Java chapter 1 project: 
-
-Big Java chapter 2 project: 
-
-Big Java chapter 3 project:
-
 Big Java chapter 4 project: https://github.com/jonathanwidmer/Programming2Portfolio/tree/main/projects/Library
 
 Big Java chapter 5 project: https://github.com/jonathanwidmer/Programming2Portfolio/tree/main/projects/Tension
