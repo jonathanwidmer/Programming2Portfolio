@@ -17,6 +17,9 @@ My individual project: https://github.com/jonathanwidmer/2020programming2Project
 Number guessing game: https://github.com/jonathanwidmer/Programming2Portfolio/tree/main/projects/NumberGame
 > This is a number guessing game where the user guesses a number, but our assignment was to store the users data, such as name, time spent playing the game, etc. and output it to a txt file.
 
+2D array chessboard: https://github.com/jonathanwidmer/Programming2Portfolio/tree/main/projects/ChessBoard
+> This project displays a chess board made from a 2D array.
+
 # Big Java Chapter Projects
 
 Big Java chapter 4 project: https://github.com/jonathanwidmer/Programming2Portfolio/tree/main/projects/Library
