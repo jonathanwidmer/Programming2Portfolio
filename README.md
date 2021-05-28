@@ -9,6 +9,8 @@ Link to my individual project: https://github.com/jonathanwidmer/2020programming
 
 Link  to group project: https://github.com/jonathanwidmer/programmingroupproject
 
+# Big Java Chapter Projects
+
 Big Java chapter 1 project: 
 
 Big Java chapter 2 project: 
